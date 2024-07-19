@@ -90,3 +90,18 @@ nav a:hover::after{
     height: 100%;
     transition: 0.5s ease-in-out 0.5s;
 }
+
+@media (max-width:600px) {
+    .cards{
+        display: grid;
+        overflow: hidden;
+        overflow-y: scroll;
+        max-height: 100vh ;
+    }
+    .cointainer{
+        padding:10px;
+    }
+    .cards img{
+        border-radius: 20px;
+    }
+}
