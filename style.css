@@ -62,7 +62,7 @@ nav a:hover::after{
     justify-content: space-evenly;
 }
 .card{
-    background-color: rgba(147, 197, 114, 1);
+    background-color:  rgba(1, 172, 212,0.7);
     backdrop-filter: blur(20px);
     padding: 3%;
     border-radius: 50px;
