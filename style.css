@@ -114,7 +114,7 @@ nav a:hover::after{
 #Gallery{
     width: 100%;
     height: 100vh;
-    padding: 10% 3%;
+    padding: 15% 3%;
 }
 #Gallery img{
     width: 30%;
