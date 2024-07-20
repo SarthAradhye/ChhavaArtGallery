@@ -122,4 +122,7 @@ nav a:hover::after{
     border-radius: 20px;
     box-shadow: 3px 3px 3px 3px #ffffffb6 ;
 }
-
+#Gallery img:hover{
+    width:100%;
+    transition: 0.5s;
+}
