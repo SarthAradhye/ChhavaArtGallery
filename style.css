@@ -124,5 +124,5 @@ nav a:hover::after{
 }
 #Gallery img:hover{
     width:100%;
-    transition: 0.5s;
+    
 }
