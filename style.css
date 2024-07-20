@@ -81,9 +81,7 @@ nav a:hover::after{
     border: none;
 }
 .card button:hover{
-    background-color: #ff6f00;
-    padding: 1.3em;
-    
+    background-color: #ff6f00; 
 }
 .cointainer img:hover{
     width: 100%;
